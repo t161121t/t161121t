@@ -7,19 +7,17 @@
 - 🛠️ watnow（学生エンジニア団体）メンバー
 - 💼 バックエンドエンジニア志望 → 将来的にはプロダクトマネージャーへ
 
-
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,go,py,java&perline=10)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,go,py,java,ruby,r&perline=10)](https://skillicons.dev)
 
 **Frontend / Mobile**
 
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,expo,tailwind,html,css&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,expo,vue,tailwind,html,css&perline=10)](https://skillicons.dev)
 
 **Backend / DB / Infra**
 
@@ -27,7 +25,7 @@
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,notion,obsidian,linux&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,notion,obsidian,latex,linux&perline=10)](https://skillicons.dev)
 
 ---
 
@@ -49,8 +47,9 @@
 
 ## 📚 Currently Learning
 
-- Go（バックエンド / Clean Architecture / DDD）
-- 韓国語 / 英語
+- バックエンド 領域
+- Clean Architecture / DDD
+-ソフトフェア設計の結合バランス
 
 ---
 
