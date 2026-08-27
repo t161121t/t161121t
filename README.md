@@ -5,7 +5,7 @@
 - 🎓 立命館大学 情報理工学部 3回生（卒業予定：2028年3月）
 - 🔬 來村研究室（知識工学・オントロジー工学 × LLM）
 - 🛠️ watnow（学生エンジニア団体）メンバー
-
+- 💼 バックエンドエンジニア志望 → 将来的にはプロダクトマネージャーへ
 
 ---
 
@@ -13,11 +13,11 @@
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=ts,js,go,py,java,ruby,r&perline=10)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,go,py,java,ruby,r,swift,kotlin&perline=10)](https://skillicons.dev)
 
 **Frontend / Mobile**
 
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,expo,vue,tailwind,html,css&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,html,css&perline=10)](https://skillicons.dev)
 
 **Backend / DB / Infra**
 
@@ -38,7 +38,12 @@
 
 ---
 
+## 🏢 Internship
 
+- **istyle** — サマーエンジニアインターン（2026）
+- **Rakus** — 3DAYSインターン（2026）
+
+---
 
 ## 📚 Currently Learning
 
